@@ -1,5 +1,5 @@
 # chatbot
-Bu Chatbot, Konya Bilim Merkezi Yeni Ufuklar Sergisi için tasarlanmış olan bir projedir.
+Bu Chatbot, Konya Bilim Merkezi Yeni Ufuklar Sergisi için 2021 Yılında tasarlanmış olan bir projedir.
 
 Chatbot Python ortamında yazılmıştır.
 Söylenileni yazıya çevirerek gerekli sorgulamaları yapar ve cevap verir.
